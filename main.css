@@ -1,0 +1,21 @@
+body{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-image: url(哭哭.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    font-size: 160px;
+    color: aliceblue;
+    -webkit-text-stroke: 3px rgb(31, 252, 11);
+}
+#button_g{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
