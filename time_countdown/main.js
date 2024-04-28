@@ -37,7 +37,7 @@ function get_now_time(){
     var year = now.getFullYear(); // 年份
     var month = now.getMonth() + 1; // 月份是從 0 開始的，所以要加 1
     var day = now.getDate(); // 日
-    now_day=year+'-'+month+'-'+day
+    now_day=year+'/'+month+'/'+day
     date1=new Date(now_day).getTime()
     date2=new Date(m_day).getTime()
     date1=date1/1000
