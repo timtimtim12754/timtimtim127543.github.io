@@ -1,7 +1,7 @@
 body{
 
     position: absolute;
-    top: 30%;
+    top: 50%;
     left: 50%;
     color: aliceblue;
     transform: translate(-50%,-50%);
@@ -11,5 +11,5 @@ body{
     border: 20px solid rgb(255, 255, 255);
     border-radius: 30px;
     padding: 10px;
-    font-size: 100px;
+    font-size: 50px;
 }
