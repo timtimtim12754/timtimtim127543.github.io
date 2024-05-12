@@ -58,9 +58,6 @@ function get_now_time(){
 
         time_pass=(date2-date1)
         updateTime(time_pass)
-        console.log("date1:"+date1)
-        console.log("day_pass:"+time_pass)
-        console.log("date2:"+date2)
     }
 
 }
